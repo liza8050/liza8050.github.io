@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+}
+
+header {
+    background-image: url(cat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+h1 {
+    color: rgb(248, 0, 0); 
+    font-size: 100px;
+    line-height: 300px;
+    text-align: center;
+} 

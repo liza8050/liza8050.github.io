@@ -1,0 +1,38 @@
+body {
+    background-color: gray;
+    text-align: center;
+} 
+h2{
+    font-size: 50px;
+}
+h1 {font-size: 76px; }
+
+p
+{color: purple;
+    font-size: 100px;
+}
+
+ul{
+    list-style: none;
+
+}
+li { 
+    border-right-width: 20px; 
+    font-size: 50px;
+}
+
+img{
+    width: 50%;
+    color: green;
+}
+section { 
+
+    padding: 10px;
+
+}
+header {
+    padding: 50px;
+    background: green;
+    color: #fff;
+    text-shadow: 10px 10px 10px #000;
+        text-align: center;}
